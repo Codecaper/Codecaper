@@ -15,9 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-💵  Currently, I am a day trader using financial robots, content creation<br>🎓 University of London, Qualys, Oracle, Linkedin, soloLearn<br>👀 for placements in c++, Security Operations Center (SOC) Analyst<br>Enjoy learning, solving problems and I have high focus before the burn out 😝
+💵  Currently, I am a day trader using financial robots, content creator <br>🎓 University of London, Qualys, Oracle, Linkedin, soloLearn<br>👀 for placements in c++, Security Operations Center (SOC) Analyst or Identity and Access Management (IAM) Specialist<br>Enjoy learning, solving problems and I have high focus before the burn out 😝
 
+I began my journey with a strong desire to create impactful websites for businesses I envisioned building. This aspiration led me to pursue training in various educational institutions, including the University of London, Coursera, and the renowned University of YouTube. Through these diverse educational experiences, I honed my skills in web development and acquired a solid foundation in the field.<br> <br>
+ 
+As I delved deeper into the realm of technology, I found myself drawn to the fascinating world of financial bots and advisors. Developing these intelligent systems became one of my significant projects, allowing me to continually challenge myself and expand my knowledge. The ever-evolving nature of these projects kept me on my toes, fostering a continuous learning mindset.<br> <br>
 
+In addition to web development and financial bots, I also explored the realm of Software as a Service (SaaS). This venture helped me gain a deeper understanding of delivering software solutions through cloud-based platforms. Along this journey, I developed a particular focus on security, realizing the critical importance of safeguarding my work and the sensitive data entrusted to me. My dedication to learning about security measures, including authentication and authorization, further enhanced my ability to protect and fortify my projects.
+<br> <br>
+With each project I undertook, I strived to maintain a keen sense of curiosity, always eager to acquire new skills and insights. The amalgamation of my experiences in web development, financial bots, SaaS, and security has not only broadened my expertise but also fueled my passion for creating innovative and secure solutions in the ever-evolving digital landscape.
+
+<br> <br>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/WorkByTroy) 
 
