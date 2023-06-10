@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
+# 💫 About Me: (markup by gprm)
 💵  Currently, I am a day trader using financial robots, content creator <br>🎓 University of London, Qualys, Oracle, Linkedin, soloLearn<br>👀 for placements in c++, Security Operations Center (SOC) Analyst or Identity and Access Management (IAM) Specialist<br>Enjoy learning, solving problems and I have high focus before the burn out 😝
 
 I began my journey with a strong desire to create impactful websites for businesses I envisioned building. This aspiration led me to pursue training in various educational institutions, including the University of London, Coursera, and the renowned University of YouTube. Through these diverse educational experiences, I honed my skills in web development and acquired a solid foundation in the field.<br> <br>
